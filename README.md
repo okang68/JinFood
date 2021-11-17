@@ -1,7 +1,7 @@
 # JinFood
 A project on online food ordering web app, based on Amazon RDS and deployed on Amazon EC2.
-Front-end:  JavaScript, React
-Back-end:   Java, Spring + Hibernate
+- Front-end: JavaScript, React
+- Back-end: Java, Spring + Hibernate
 
 Project URL: http://3.142.49.3
 
