@@ -1,5 +1,5 @@
 # JinFood
-A web app on online food ordering, based on AWS RDS, deployed to AWS EC2.
+A Web App on online food ordering, based on AWS RDS, deployed to AWS EC2.
 - Front-end: JavaScript, React
 - Back-end: Java, Spring + Hibernate
 
